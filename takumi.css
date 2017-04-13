@@ -1,0 +1,41 @@
+<style>
+  img {
+    align-self: auto;
+
+
+  }
+  body {
+      background-color: black;
+  }
+table.fish{border:none; }
+td.dog { color:#F0E7E7; text-align:center; font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:36px}
+td.dog2 { color:rgba(79,76,77,1.00); text-align:center; font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:36px}
+table.cat{border-color:#b49730; border-bottom:1px solid #b49730; border-top:1px solid #b49730;}
+  h1{
+    color:white;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 100;
+	
+  }
+ td.dogleft { color:#F0E7E7; text-align:left; font-family:Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; font-size:36px; padding-left:100px;}
+
+a:link {
+	color:#FFFFFF; text-decoration: none;}
+	a:visited {
+	color:#FFFFFF;}
+	a:hover {font-size:36px; color:#b49730; font-weight:600;}
+  h2{
+    color:white;
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 100;
+  }
+
+div.center {
+  menu{
+    color:#b49730;
+  }
+
+
+  </style>
